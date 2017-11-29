@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wildcat</string>
+    <string name="action_sign_in_short" />
+    <string name="prompt_email" />
+</resources>
